@@ -52,4 +52,3 @@ describe "Pokemon" do
     let(:magikarp){Pokemon.find(2, @db)}
 
     # remove the 'x' before 'it' to run these tests
-
